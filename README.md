@@ -28,6 +28,6 @@ I'm a **Junior Software Engineer** with a passion for solving problems, learning
 - **Tech Hardware Repair**: Years of experience in buying and repairing retro consoles.
 
 ### 📫 Let's Connect:
-- **LinkedIn**: [Connect with me](www.linkedin.com/in/lucas-sloan-892802211)
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/lucas-sloan-892802211)
 - **Email**: lucasg.sloan@gmail.com
 - **Text**: 972-375-1918
