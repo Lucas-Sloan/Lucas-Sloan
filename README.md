@@ -27,9 +27,6 @@ I'm a **Junior Software Engineer** with a passion for solving problems, learning
 - **Team Leadership**: Guiding teams to success through clear communication and goal setting.
 - **Tech Hardware Repair**: Years of experience in buying and repairing retro consoles.
 
-### ⚡ Fun Fact:
-I have spent years buying and repairing retro consoles :mechanic:
-
 ### 📫 Let's Connect:
 - **LinkedIn**: [Connect with me](www.linkedin.com/in/lucas-sloan-892802211)
 - **Email**: lucasg.sloan@gmail.com
