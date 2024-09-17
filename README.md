@@ -15,6 +15,9 @@ I'm a **Junior Software Engineer** with a passion for solving problems, learning
 ![Node](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 
 ### 💻 My Journey:
 - ⭐️ **Tech Enthusiast**: Strong foundation in math, science, and technology.
