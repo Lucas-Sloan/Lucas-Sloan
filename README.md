@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Lucas Sloan
 
-I'm a **Junior Software Engineer** with a passion for solving problems, learning new technologies, and creating innovative solutions. My background in management and tech hardware repair gives me a unique edge in leading teams and tackling complex challenges.
+I'm a **Software Engineer** with a passion for solving problems, learning new technologies, and creating innovative solutions. My background in management and tech hardware repair gives me a unique edge in leading teams and tackling complex challenges.
 
 ### 👀 Interests:
 - :computer: **Programming**
@@ -21,7 +21,7 @@ I'm a **Junior Software Engineer** with a passion for solving problems, learning
 
 ### 💻 My Journey:
 - ⭐️ **Tech Enthusiast**: Strong foundation in math, science, and technology.
-- ⭐️ **Career Transition**: After earning my Associate of Science degree, I am now advancing my skills at a Software Engineering Bootcamp at General Assembly.
+- ⭐️ **Career Transition**: After earning my Associate of Science degree, I advanced my skills at a Software Engineering Bootcamp at General Assembly.
 - ⭐️ **Leadership Experience**: Over a decade at Tom Thumb Grocery, progressing from Grocery Bagger to Assistant Produce Manager. Proven track record in team leadership, effective communication, and achieving key performance metrics.
 
 ### 💪 Skills & Expertise:
