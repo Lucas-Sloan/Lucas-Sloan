@@ -33,4 +33,3 @@ I'm a **Software Engineer** with a passion for solving problems, learning new te
 ### 📫 Let's Connect:
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/lucas-sloan-892802211)
 - **Email**: lucasg.sloan@gmail.com
-- **Text**: 972-375-1918
